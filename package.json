@@ -13,5 +13,21 @@
     "jade": "~1.11.0",
     "morgan": "~1.8.1",
     "serve-favicon": "~2.4.2"
-  }
+  },
+  "description": "Web application for managing personal debt",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dayrobert/debtdiet.git"
+  },
+  "keywords": [
+    "webapp"
+  ],
+  "author": "robert day",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dayrobert/debtdiet/issues"
+  },
+  "homepage": "https://github.com/dayrobert/debtdiet#readme"
 }
